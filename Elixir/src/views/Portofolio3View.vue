@@ -5,7 +5,7 @@ import Footer from '../components/Footer.vue'
 </script>
 
 <template>
-    <HeadPor />
-    <Portofolio3 />
-    <Footer />
+  <HeadPor />
+  <Portofolio3 />
+  <Footer />
 </template>
